@@ -5,7 +5,7 @@ import pygame
 import tkinter as tk
 from tkinter import messagebox
 
-GOOGLE_API_KEY = "AIzaSyCkUYGk0Da6Mpcpfb7qQRexHa3Z8xxw6Ks"
+GOOGLE_API_KEY = ""
 genai.configure(api_key=GOOGLE_API_KEY)
 
 generation_config = {
